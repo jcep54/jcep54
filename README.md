@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm an inquisitive problem solver with a knack for turning challenges into opportunities. My career journey has been a testament to my tenacity and commitment to process execution, which has consistently driven my sales success. I've transitioned from the dynamic world of sales to the exciting realm of web development, where I apply the same problem-solving mindset to create innovative digital solutions.
+
+When I'm not coding, you can find me exploring the great outdoors through hiking, pushing my limits in the gym with weight lifting, or enjoying quality time with friends and family. I'm also an avid reader and a perpetual learner, always seeking to acquire new skills and knowledge.
+
+Let's connect and explore new opportunities together! 🌐 #Sales #WebDevelopment #ProblemSolver
 <!--
 **jcep54/jcep54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
